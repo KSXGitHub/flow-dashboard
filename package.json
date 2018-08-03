@@ -42,7 +42,7 @@
     "react-addons-update": "^15.4.2",
     "react-chartjs-2": "^2.0.5",
     "react-color": "^2.1.0",
-    "react-dom": "^15.4.2",
+    "react-dom": "^16.0.1",
     "react-g-analytics": "^0.2.6",
     "react-google-login": "^2.8.7",
     "react-input-autosize": "1.1.0",
